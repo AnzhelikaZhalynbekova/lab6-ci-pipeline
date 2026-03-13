@@ -14,3 +14,5 @@ This project demonstrates a local CI pipeline for a Python application using Git
 
 List jobs:
 ```bash
+
+CI test trigger
